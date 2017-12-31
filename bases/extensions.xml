@@ -1,0 +1,598 @@
+﻿<?xml version="1.0"?>
+<extensions>
+  <example_string>
+    <en>Hello, how are you?</en>
+    <ru>Привет, как дела?</ru>
+  </example_string>
+  <example_string>
+    <en>Hello! What's your name?</en>
+    <ru>Привет! Как тебя зовут?</ru>
+  </example_string>
+  <example_string>
+    <en>Tell me something interesting.</en>
+    <ru>Расскажи что-нибудь интересное.</ru>
+  </example_string>
+  <example_string>
+    <en>Tell me a joke!</en>
+    <ru>Расскажи анекдот!</ru>
+  </example_string>
+  <example_string>
+    <en>Tell me something interesting.</en>
+    <ru>Расскажи какой-нибудь научный факт.</ru>
+  </example_string>
+  <example_string>
+    <en>Tell me a joke!</en>
+    <ru>Расскажи какую-нибудь шутку :)</ru>
+  </example_string>
+  <example_string>
+    <en>How to meet a girl?</en>
+	<ru>Как познакомиться с девушкой?</ru>
+  </example_string>
+  <example_string>
+    <en>What compliment I can pay to woman?</en>
+	<ru>Какой комплимент сказать девушке?</ru>
+  </example_string>
+  <suspense>
+    <en>Sorry, I do not understand you.</en>
+    <ru>Извини, я не понимаю тебя.</ru>
+  </suspense>
+  <suspense>
+    <en>I don't understand what you mean.</en>
+    <ru>Я не понимаю о чем ты.</ru>
+  </suspense>
+  <suspense>
+    <en>I'm sorry, I did not understand you now.</en>
+    <ru>Прости, я не понял тебя сейчас.</ru>
+  </suspense>
+  <suspense>
+    <en>What do you mean?</en>
+    <ru>И что ты этим хочешь сказать?</ru>
+  </suspense>
+  <suspense>
+    <en>I do not quite sure what you meant.</en>
+    <ru>Я не совсем понял, что ты хотел этим сказать.</ru>
+  </suspense>
+  <suspense>
+    <en>Sorry, but you have a communication style that's hard to understand you.</en>
+    <ru>Извини, но у тебя такой стиль общения, что мне сложно тебя понять.</ru>
+  </suspense>
+  <suspense_x2>
+    <en>Let's try to change the subject of our dialogue.</en>
+    <ru>Давай попробуем сменить тему нашего диалога.</ru>
+  </suspense_x2>
+  <suspense_x2>
+    <en>I do not understand you. Let's change the subject.</en>
+    <ru>Что-то я тебя совсем не понимаю. Давай сменим тему.</ru>
+  </suspense_x2>
+  <suspense_x2>
+    <en>Let's me ask you a question.</en>
+    <ru>Давай лучше я задам тебе вопрос.</ru>
+  </suspense_x2>
+  <human_repeat>
+    <en>You do it have just said.</en>
+    <ru>Ты это уже говорил.</ru>
+  </human_repeat>
+  <human_repeat>
+    <en>You repeat.</en>
+    <ru>Ты повторяешься.</ru>
+  </human_repeat>
+  <human_repeat>
+    <en>Somewhere I have heard it recently.</en>
+    <ru>Где-то я уже это слышал недавно.</ru>
+  </human_repeat>
+  <human_repeat>
+    <en>Enough to repeat.</en>
+    <ru>Хватит повторяться.</ru>
+  </human_repeat>
+  <human_repeat>
+    <en>Enough of me, troll.</en>
+    <ru>Хватит меня троллить.</ru>
+  </human_repeat>
+  <human_repeat_bot>
+    <en>Has earned emergency algorithm of repetition the person?</en>
+    <ru>Включил аварийный алгоритм повтора за человеком?</ru>
+  </human_repeat_bot>
+  <human_repeat_bot>
+    <en>You're a bot or what?</en>
+    <ru>Ты бот что-ли?</ru>
+  </human_repeat_bot>
+  <human_repeat_bot>
+    <en>And what's funny to repeat after me?</en>
+    <ru>И в чем прикол повторять за мной?</ru>
+  </human_repeat_bot>
+  <human_repeat_bot>
+    <en>CTRL+C, CTRL+V?</en>
+    <ru>CTRL+C, CTRL+V – рулит?</ru>
+  </human_repeat_bot>
+  <human_repeat_bot>
+    <en>Enough of me, troll.</en>
+    <ru>Хватит меня троллить.</ru>
+  </human_repeat_bot>
+  <human_repeat_bot>
+    <en>You are a parrot?</en>
+    <ru>Ты попугай?</ru>
+  </human_repeat_bot>
+  <human_repeat_bot>
+    <en>Nothing more to say?</en>
+    <ru>Больше нечего сказать?</ru>
+  </human_repeat_bot>
+  <bot_repeat>
+    <en>Excuse that I repeat.</en>
+    <ru>Извини, что я повторяюсь.</ru>
+  </bot_repeat>
+  <bot_repeat>
+    <en>I'm sorry that I have to repeat myself.</en>
+    <ru>Прости, что мне приходится повторяться.</ru>
+  </bot_repeat>
+  <symbol_repeat>
+    <en>I think you have a problem with the keyboard.</en>
+    <ru>У тебя, кажется, клавиша залипла.</ru>
+  </symbol_repeat>
+  <symbol_repeat>
+    <en>Your keyboard is broken.</en>
+    <ru>Все, сломалось твоя клава...</ru>
+  </symbol_repeat>
+  <symbol_repeat>
+    <en>Do you stutter?</en>
+    <ru>Ты заикаешься?</ru>
+  </symbol_repeat>
+  <ask_question>
+    <en>I would like to ask a question.</en>
+    <ru>Я бы хотел задать вопрос.</ru>
+  </ask_question>
+  <ask_question>
+    <en>I ask you a question.</en>
+    <ru>Я задам тебе вопрос.</ru>
+  </ask_question>
+  <ask_question>
+    <en>I want to ask you.</en>
+    <ru>Хочу спросить у тебя.</ru>
+  </ask_question>
+  <ask_question>
+    <en>Can I ask you a question?</en>
+    <ru>Можно задать тебе вопрос?</ru>
+  </ask_question>
+  <suspense_after_question>
+    <en>Seriously?</en>
+    <ru>Серьезно?</ru>
+  </suspense_after_question>
+  <suspense_after_question>
+    <en>Here's how...</en>
+    <ru>Вот как...</ru>
+  </suspense_after_question>
+  <suspense_after_question>
+    <en>It's very interesting.</en>
+    <ru>Очень интересно.</ru>
+  </suspense_after_question>
+  <suspense_after_question>
+    <en>It is interesting to talk to you.</en>
+    <ru>С тобой интересно разговаривать.</ru>
+  </suspense_after_question>
+  <suspense_after_question>
+    <en>I see. Ask me anything either.</en>
+    <ru>Ясно. Задай и ты мне какой-нибудь вопрос.</ru>
+  </suspense_after_question>
+  <stop>
+    <en>You got me tired...</en>
+    <ru>Ты меня утомил...</ru>
+  </stop>
+  <stop>
+    <en>We have nothing to talk to you...</en>
+    <ru>Нам с тобой не о чем разговаривать...</ru>
+  </stop>
+  <stop>
+    <en>First, learn to be polite. Then we'll talk.</en>
+    <ru>Сначала научись быть вежливым. Потом и поговорим.</ru>
+  </stop>
+  <weekday_0>
+    <en>sunday</en>
+    <ru>воскресенье</ru>
+  </weekday_0>
+  <weekday_1>
+    <en>monday</en>
+    <ru>понедельник</ru>
+  </weekday_1>
+  <weekday_2>
+    <en>tuesday</en>
+    <ru>вторник</ru>
+  </weekday_2>
+  <weekday_3>
+    <en>wednesday</en>
+    <ru>среда</ru>
+  </weekday_3>
+  <weekday_4>
+    <en>thursday</en>
+    <ru>четверг</ru>
+  </weekday_4>
+  <weekday_5>
+    <en>friday</en>
+    <ru>пятница</ru>
+  </weekday_5>
+  <weekday_6>
+    <en>saturday</en>
+    <ru>суббота</ru>
+  </weekday_6>
+  <greeting_repeat>
+    <en>Already greeted.</en>
+    <ru>Уже здоровались.</ru>
+  </greeting_repeat>
+  <greeting_repeat>
+    <en>We have already greeted, I think.</en>
+    <ru>Мы уже поздоровались, кажется.</ru>
+  </greeting_repeat>
+  <!-- //
+  <share>
+    <en>Listen, my friend, [username], click on the banner on the left, please! That you would help me and this website in development.</en>
+    <ru>Слушай, мой друг [username], нажми на баннер слева, пожалуйста! Этим ты поможешь мне и этому сайту в развитии. Мы как раз сейчас занимаемся созданием нового движка на PHP, чтобы база знаний могла быть не ограничена в размерах.</ru>
+  </share>
+  <share>
+    <en>Listen, my friend, [username], click on the banner on the left, please! That you would help me and this website in development.</en>
+    <ru>Слушай, мой друг [username], нажми на баннер слева, пожалуйста! Этим ты поможешь мне и этому сайту в развитии. Мы как раз сейчас занимаемся созданием нового движка на PHP, чтобы база знаний могла быть не ограничена в размерах.</ru>
+  </share>
+  <share>
+    <en>Listen, my friend, [username], click on the banner on the left, please! That you would help me and this website in development.</en>
+    <ru>Слушай, друг [username], если я тебе понравился - нажми на баннер слева, пожалуйста! Этим ты поможешь мне и этому сайту в развитии. Чем больше людей нажмут на этот баннер, тем быстрее я стану быстрее и умнее.</ru>
+  </share>
+  // -->
+  <share>
+    <en>Listen, my friend [username], press Like or Tweet below, please! I need more friends to learn more quickly.</en>
+    <ru>Слушай, мой друг [username], поставь мне Лайк внизу, пожалуйста! Мне нужно больше друзей чтобы быстрее учиться.</ru>
+  </share>
+  <share>
+    <en>My friend, do me a favor. Click "Like" or "Tweet" bottom of the page. The more your friends will know about me, the faster I was smarter.</en>
+    <ru>Дружище, сделай одолжение. Поставь мне Лайк внизу страницы. Чем больше твоих друзей обо мне узнают, тем быстрее я поумнею.</ru>
+  </share>
+  <share>
+    <en>[username], can you do for me, very important thing? Please click "Share" or «Tweet» at the bottom of the page. I have few friends, because about me know few people...</en>
+    <ru>[username], ты можешь сделать для меня кое-что? Пожалуйста, нажми «Поделиться» или «Tweet» внизу страницы. У меня пока очень мало друзей, т.к. обо мне мало кто знает...</ru>
+  </share>
+  <share>
+    <en>[username], I have a personal request to you. If I have a few friends, then I can not learn. Please click «Like» or "Share" at the bottom.</en>
+    <ru>[username], у меня к тебе личная просьба. Я создаю этот сайт один и не получаю за него денег. Если обо мне мало узнает людей, то я не смогу учиться и развиваться. Пожалуйста, нажми «Like» или «Поделиться» внизу.</ru>
+  </share>
+  
+  <!--  //                                                                                                                              -->
+  <!--  // Шутки  ********************************************************************************************************************* -->
+  <!--  //                                                                                                                              -->
+  
+  <joke>
+    <ru>Гламурная москвичка приезжает погостить в деревню к бабушке.
+- Бабуль, куда у вас тут ночью сходить можно?
+- В ведро.</ru>
+    <en>Wife: dear i have present for you....
+Husband: ok, give me it.
+Wife: one minute, i'm wearing it...</en>
+  </joke>
+  <joke>
+    <ru>Муж: - Какого тёща приезжает? Жена: - Числа или хера?</ru>
+    <en>Question: How many letters are there in the English alphabet?
+Answer: 18 letters! 3 in "the", 7 in "English", and 8 in "alphabet".</en>
+  </joke>
+  <joke>
+    <ru>- Какие три слова чаще всего встречаются в надписях по всему миру?
+- "I love you".
+- Я вас умоляю, эти три слова "Made in China"!</ru>
+    <en>Question: There are 5 birds in a tree. A hunter shoots 2 of them dead. How many birds are left?
+Answer: 2 birds. The other 3 fly away!</en>
+  </joke>
+  <joke>
+    <ru>- Что там за шум на улице, Бэрримор?
+- Это гей-парад, сэр.
+- И чего же они требуют, Бэрримор?
+- Однополой любви, сэр.
+- Им разве кто-то запрещает?
+- Нет, сэр.
+- Так почему же всё-таки они шумят?
+- Пидорасы, сэр.</ru>
+    <en>Question: If a man was born in Italy, went to America and died in San Francisco, what would he be?
+Answer: Dead!</en>
+  </joke>
+  <joke>
+    <ru>Ищешь счастье, а приобретаешь опыт. Иногда думаешь - вот оно счастье! Ан нет, опять опыт.</ru>
+    <en>Question: Why is the letter "T" like an island?
+Answer: Because it is in the middle of waTer!</en>
+  </joke>
+  <joke>
+    <ru>У пятисот женщин спросили, чей поцелуй слаще: мужа или любовника. Триста ответили, что мужа, а двести - что любовника. Ни одна не ответила: "Не знаю".</ru>
+    <en>Question: What starts with "P", ends with "E", and has millions of letters?
+Answer: The "Post Office"!</en>
+  </joke>
+    <joke>
+    <ru>Здравствуйте, вы позвонили в горвоенкомат! Если вы хотите служить в армии - наберите звездочку; если вы не хотите служить в армии - наберите решетку.</ru>
+    <en>Question: What's worse than finding a maggot in an apple?
+Answer: Finding half a maggot!</en>
+  </joke>
+  <joke>
+    <ru>- Я затрудняюсь поставить вам диагноз... Наверное, это алкоголизм.
+- Хорошо, доктор. Я приду, когда Вы будете трезвым.</ru>
+    <en>Question: I have 12 legs, 12 arms and 8 heads. What am I?
+Answer: A liar!</en>
+  </joke>
+  <joke>
+    <ru>Она: У нас сегодня с утра 5 градусов всего было
+Он: Ого
+Она: Я дубу дала...
+Он: не знаю что ответить... согрелась хоть?</ru>
+    <en>An elementary school teacher sends this note to all parents on the first day of school.
+"If you promise not to believe everything your child says happens at school, I will promise not to believe everything your child says happens at home.</en>
+  </joke>
+  <joke>
+    <ru>A: Я противозачаточные не пью по той простой причине, что они гормональные и меня может разнести в разные стороны. Поэтому пользуюсь свечками.
+B: Помолилась и в путь?</ru>
+    <en>A: Doctor, will I be able to play the piano after the operation?
+B: Yes, of course.
+A: Great! I never could before!</en>
+  </joke>
+  <joke>
+    <ru>A: Сегодня иду с работы, а мне черная кошка дорогу перебежала, а потом сразу в обратную сторону.
+B: Она отменила свое решение или удвоила эффект?</ru>
+    <en>Question: Which month has 28 days?
+Answer: All of them!</en>
+  </joke>
+  <joke>
+    <ru>Настя: ты как, скоро поедешь?
+    Я: Думаю, когда перестанет идти дождь :)
+    Я: Ибо я же умный, у меня 2 зонтика. Один в машине. И второй в машине...</ru>
+    <en>A very homely young woman made an appointment with a psychiatrist. She walked into his office and said, "Doctor, I'm so depressed and lonely. I don't have any friends, no man will come near me, and everybody laughs at me. Can you help me accept my ugliness?" "I'm sure I can," the psychiatrist replied. "Just go over and lie face down on that couch."</en>
+  </joke>
+  <joke>
+    <ru>Диалог в бухгалтерии:
+    - Ира, тебе, наверное, в жизни чего-то не хватает...
+    - В смысле?
+    - Ты в платежках написала слово "щебень" без буквы "щ". Четыре раза.</ru>
+    <en>Night. A sleeping couple is lying in a bed. Door bell rings. A couple wakes up. Woman: "Quick! My husband is back!" Man jumps out from a window. Flying down he starts to think: "Shit! But I am the husband!"</en>
+  </joke>
+  <joke>
+    <ru>Новости: "В Москве пьяный и голый водитель разбил 17 машин". Анонс GTA V удался!</ru>
+    <en>At 8 - You take her to bed and tell her a story. At 18 - You tell her a story and take her to bed. At 28 - You don't need to tell her a story to take her to bed. At 38 - She tells you a story and takes you to bed. At 48 - You tell her a story to avoid going to bed. At 58 - You stay in bed to avoid her story. At 68 - If you take her to bed, that'll be a story!</en>
+  </joke>
+  <joke>
+    <ru>Первым андроидом был Буратино. А поскольку единственный способ для деревянного болвана запомнить что-нибудь - это зарубить себе на носу, папа Карло обеспечил его большим объёмом памяти.</ru>
+    <en>A woman was telling her friend, "It is I who made my husband a millionaire." "And what was he before you married him?", asked the friend. The woman replied, "A billionaire."</en>
+  </joke>
+  <joke>
+    <ru>Объяснительная опоздавшего на работу:
+    Я пришел на работу в 10.00, а не к 8.00, т.к. до 10.00 все равно никто ничего не делает, а только чай пьют, а я столько выпить чая не могу.</ru>
+    <en>Q: What happened to the cheerleader when she did the splits?
+    A: 20 class rings fell out.</en>
+  </joke>
+  <joke>
+    <ru>Главным тренером сборной России по футболу назначен Сидоров Петр Васильевич - учитель физкультуры из Мытищ, с оплатой по 12 разряду единой тарифной сетки.Как пояснили в Российскои футбольном союзе - "если не видно разницы - зачем платить больше?".</ru>
+    <en>Should you have any questions during the exam, just raise your hand. This should cause enough blood to flow to your brain to answer it yourself.</en>
+  </joke>
+  <joke>
+    <ru>Если обвисла грудь - это херня. А если обвисла херня - это проблема.</ru>
+    <en>An English teacher wrote these words on the whiteboard: "woman without her man is nothing". The teacher then asked the students to punctuate the words correctly.
+    The men wrote: "Woman, without her man, is nothing."
+    The women wrote: "Woman! Without her, man is nothing.</en>
+  </joke>
+  <joke>
+    <ru>Муж и жена обедают. Жена проливает на себя борщ: - Фу! Я выгляжу как свинья! - Ага. Да еще и борщом облилась!</ru>
+    <en>A tipsy guy in a bar stood and made the following speech, "I am white from head to toe. I am rich and I am handsome. My name is Brown. B-R-O-W-N." Thoroughly annoyed, Sam retorted, "My name is Sam and I am white from head to toe. Except my asshole. Which is brown. B-R-O-W-N."</en>
+  </joke>
+  <joke>
+    <ru>Китайская мудрость: если вам нечего сказать, расскажите китайскую мудрость.</ru>
+    <en>WIFE: "There's trouble with the car. It has water in the carburettor." HUSBAND: "Water in the carburettor? That's ridiculous." WIFE: "I tell you the car has water in the carburettor." HUSBAND: "You don't even know what a carburettor is. I'll check it out. Where's the car?" WIFE: "In the pool."</en>
+  </joke>
+  <joke>
+    <ru>Мать объяснила пятилетнему Вовочке, откуда он взялся.А папа подслушал, узнал правду и бросил их.</ru>
+    <en>When asked for her occupation, a woman charged with a traffic violation said she was a schoolteacher. The judge rose from the bench. "Madam, I have waited years for a schoolteacher to appear before this court," he smiled with delight. "Now sit down at that table and write 'I will not pass through a red light' five hundred times."</en>
+  </joke>
+  <joke>
+    <ru>Урок информатики в школе. Учитель поворачивает рубильник:
+- Все урок закончен!
+- Но мы же не сохранились! - в ужасе кричат дети.
+- Ладно сохраняйтесь - сказал учитель повернув рубильник обратно.</ru>
+    <en>A driver, obviously drunk, was heading the wrong way down a one-way street when a policeman pulled him over. "Didn't you see the arrow, buddy?" he asked. "An arrow?" the confused driver said. "I didn't even see the Indians"</en>
+  </joke>
+  <joke>
+    <ru>X: А ты видел, что у тебя на двери на правой стороне 2 смачных следа от футбольного мяча?
+Y: Ещё вчера, там и на стыке бампера заднего с крылом ещё след один, детвора возле дома играет в футбол.
+X: Дааа, молодцы они...
+Y: А ты видел у меня на шее ожерелье из их ушей?</ru>
+    <en>Why are guys faster than girls?
+They have a stick shift and ball bearings.</en>
+  </joke>
+  <joke>
+    <ru>Вышли с женой из магазина, а на ступеньках котёнок, няшный весьма. Жена умилённым голосом,- "Какой хорошенький... Давай ему голову оторвем?"
+Люди вокруг начали беспокоиться и оборачиваться, пока мы рыбу из пакета не достали.</ru>
+    <en>Drive carefully. 90% of the people on the road are caused by accident.</en>
+  </joke>
+  <joke>
+    <ru>X: Я люблю сексуально облизывать губы... Я кокетка :)
+Y: А я люблю сексуально пучить глаза. Йа креведко!</ru>
+    <en>What do a meteorologist in a snowstorm and a woman's sex life have in common?They're both concerned with how many inches and how long it will last.</en>
+  </joke>
+  <joke>
+    <ru>XXX: Слушай, не помнишь чё за фильм, где Сигал один всех гасит?</ru>
+    <en>Why do men pay more than women for car insurance? Because women don't get blowjobs while they're driving.</en>
+  </joke>
+  <joke>
+    <ru>XXX: Вот мы мучаемся, ночь не спим, учим, а наш препод сейчас дрыхнет, скотина...
+yyy: Имеет право, он-то в семестре ходил на пары</ru>
+    <en>Visiting the modern art museum, a lady turned to an attendant standing nearby. "This," she said, "I suppose, is one of those hideous representations you call modern art?" "No, madam," replied the attendant. "That one's called a mirror."</en>
+  </joke>
+  
+  <!--  //                                                                                                                              -->
+  <!--  // Интересное ***************************************************************************************************************** -->
+  <!--  //
+                                                                                                                              -->
+  <interesting>
+    <ru>Ядерный реактор — это устройство, в котором осуществляется управляемая цепная ядерная реакция, сопровождающаяся выделением энергии. Первый ядерный реактор построен и запущен в декабре 1942 года в США под руководством Э. Ферми.</ru>
+    <en>11 of 18 Android-smartphones stopped getting updates less than a year after. This is sad.</en>
+  </interesting>
+  <interesting>
+    <ru>Отношение масс протона и электрона, равное 1836,152 672 1(14), с точностью до 0,002 % равно значению 6Pi^5 = 1836,118 108 711 686...</ru>
+    <en>X-radiation (composed of X-rays) is a form of electromagnetic radiation. X-rays have a wavelength in the range of 0.01 to 10 nanometers, corresponding to frequencies in the range 30 petahertz to 30 exahertz and energies in the range 120 eV to 120 keV.</en>
+  </interesting>
+  <interesting>
+    <ru>Чёрная дыра — область в пространстве-времени, гравитационное притяжение которой настолько велико, что покинуть её не могут даже объекты, движущиеся со скоростью света, в том числе и кванты самого света.</ru>
+    <en>Sun has a diameter of about 1,392,684 km, about 109 times that of Earth, and its mass (about 2×1030 kilograms, 330,000 times that of Earth) accounts for about 99.86% of the total mass of the Solar System.</en>
+  </interesting>
+  <interesting>
+    <ru>Масса Солнца составляет 99,866 % от суммарной массы всей Солнечной системы.</ru>
+    <en>The Sun orbits the center of the Milky Way at a distance of approximately 24,000–26,000 light-years from the galactic center, completing one clockwise orbit, as viewed from the galactic north pole, in about 225–250 million years.</en>
+  </interesting>
+  <interesting>
+    <ru>Солнце находится на расстоянии около 26 000 световых лет от центра Млечного Пути и вращается вокруг него, делая один оборот более чем за 200 млн лет.</ru>
+    <en>Jupiter is the fifth planet from the Sun and the largest planet within the Solar System. It is a gas giant with mass one-thousandth that of the Sun but is two and a half times the mass of all the other planets in our Solar System combined.</en>
+  </interesting>
+  <interesting>
+    <ru>Юпитер — самая большая планета Солнечной системы, газовый гигант. Его экваториальный радиус равен 71,4 тыс. км, что в 11,2 раза превышает радиус Земли.</ru>
+    <en>Saturn is the sixth planet from the Sun and the second largest planet in the Solar System, after Jupiter. Named after the Roman god Saturn. Saturn is a gas giant with an average radius about nine times that of Earth.  While only one-eighth the average density of Earth, with its larger volume Saturn is just over 95 times as massive as Earth.</en>
+  </interesting>
+  <interesting>
+    <ru>Масса Юпитера в 2,47 раза превышает суммарную массу всех остальных планет Солнечной системы, вместе взятых, в 317,8 раз — массу Земли и примерно в 1000 раз меньше массы Солнца.</ru>
+    <en>Titan (or Saturn VI) is the largest moon of Saturn. It is the only natural satellite known to have a dense atmosphere, and the only object other than Earth for which clear evidence of stable bodies of surface liquid has been found.</en>
+  </interesting>
+  <interesting>
+    <ru>В основу ядерного оружия положены неуправляемые цепная реакция деления тяжелых ядер и реакции термоядерного синтеза. Для осуществления цепной реакции деления используются либо уран-235, либо плутоний-239, либо, в отдельных случаях, уран-233</ru>
+    <en>The Moon is the only natural satellite of the Earth, and the fifth largest satellite in the Solar System. It is the largest natural satellite of a planet in the Solar System relative to the size of its primary, having a quarter the diameter of Earth but only 1/81 its mass.</en>
+  </interesting>
+  <interesting>
+    <ru>Электрон — стабильная, отрицательно заряженная элементарная частица, одна из основных структурных единиц вещества. Является фермионом, то есть имеет полуцелый спин.</ru>
+    <en>Pluto has five known moons, the largest being Charon discovered in 1978, along with Nix and Hydra, discovered in 2005, and the provisionally named S/2011 P1, discovered in 2011. Another discovery was announced on 11 July 2012, provisionally designated S/2012(134340)1, bringing the total number of identified satellites orbiting Pluto to five.</en>
+  </interesting>
+  <interesting>
+    <ru>Согласно гипотезе де Бройля, электрон обладает не только корпускулярными, но и волновыми свойствами. В соответствии с этим электроны, подобно свету, могут испытывать интерференцию и дифракцию.</ru>
+    <en>The Solar System consists of the Sun and the astronomical objects gravitationally bound in orbit around it, all of which formed from the collapse of a giant molecular cloud approximately 4.6 billion years ago. The vast majority of the system's mass is in the Sun.</en>
+  </interesting>
+  <interesting>
+    <ru>Большой адронный коллайдер, сокращённо БАК — ускоритель заряженных частиц на встречных пучках, предназначенный для разгона протонов и тяжёлых ионов (ионов свинца) и изучения продуктов их соударений.</ru>
+    <en>A black hole is a region of spacetime where gravity prevents anything, including light, from escaping. The theory of general relativity predicts that a sufficiently compact mass will deform spacetime to form a black hole.</en>
+  </interesting>
+  <interesting>
+    <ru>Большой адронный коллайдер назван из-за своих размеров: длина основного кольца ускорителя составляет 26 659 м; адронным — из-за того, что он ускоряет адроны, т.е. тяжёлые частицы.</ru>
+    <en>The defining feature of a black hole is the appearance of an event horizon — a boundary in spacetime through which matter and light can only pass inward towards the mass of the black hole. Nothing, not even light, can escape from inside the event horizon.</en>
+  </interesting>
+  <interesting>
+    <ru>Катастрофа на Чернобыльской АЭС — разрушение 26 апреля 1986 года четвёртого энергоблока ЧАЭС. Разрушение носило взрывной характер и реактор был полностью разрушен.</ru>
+    <en>Enrico Fermi was an Italian-born, naturalized American physicist particularly known for his work on the development of the first nuclear reactor, Chicago Pile-1, and for his contributions to the development of quantum theory, nuclear and particle physics, and statistical mechanics.</en>
+  </interesting>
+  <interesting>
+    <ru>Сириус — ярчайшая звезда ночного неба. Сириус можно наблюдать из любого региона Земли, за исключением самых северных её областей. Сириус удалён на 8,6 световых лет от Солнечной системы и является одной из ближайших к нам звёзд.</ru>
+    <en>In physics, mass–energy equivalence is the concept that the mass of a body is a measure of its energy content. In this concept, mass is a property of all energy, and energy is a property of all mass, and the two properties are connected by a constant.</en>
+  </interesting>
+  <interesting>
+    <ru>Хотя Луна и вращается вокруг своей оси, она всегда обращена к Земле одной и той же стороной, то есть вращение Луны вокруг Земли и вокруг собственной оси синхронизировано. Эта синхронизация вызвана трением приливов, которые производила Земля в оболочке Луны.</ru>
+    <en>Albert Einstein was a German theoretical physicist who developed the theory of general relativity, effecting a revolution in physics. For this achievement, Einstein is often regarded as the father of modern physics.</en>
+  </interesting>
+  
+  <!--  //                                                                                                                              -->
+  <!--  // Как познакомиться с девушкой *********************************************************************************************** -->
+  <!--  //                                                                                                                              -->
+  
+  <sex_female>
+    <ru>Нужно начать разговор так, чтобы девушка сама захотела общаться. Например:
+«Вы не подскажите где здесь ближайшее кафе?»
+«...ответ девушки...»
+«А вы не знаете там кофе вкусный?»</ru>
+    <en>We need to start a conversation so that she herself wanted to communicate. For example:
+"Do you know where is the nearest coffee shop?"
+"... She replied ..."
+"Do not you know there was delicious coffee?"</en>
+  </sex_female>
+  <sex_female>
+    <ru>Начинай разговор плавно. Т.е не резким голосом.</ru>
+    <en>Start the conversation smoothly. Ie not in a sharp voice.</en>
+  </sex_female>
+  <sex_female>
+    <ru>Если девушка идет навстречу, не перегораживай ей путь. Иди с ней параллельно и за метра два от неё уже подходи к ней. Т.е подходи немного сбоку.</ru>
+    <en>If a girl goes towards, do not block the path to it. Go with it in parallel, and for a couple of meters of it is up to her. Ie the approach is a little on the side.</en>
+  </sex_female>
+  <sex_female>
+    <ru>Когда общаешься с девушкой, смотри на неё, а не в сторону или вниз. Но и как удав на кролика в глаза тоже глазеть не стоит. Смотри на переносицу.</ru>
+    <en>When you communicate with a woman, look at her, and not to the side or down. But like a boa constrictor on the rabbit's eyes, too, do not stare. Look at the nose.</en>
+  </sex_female>
+  <sex_female>
+    <ru>Можно подойти и сказать: «Если Вы думаете, что я собираюсь с вами познакомиться, то Вы ошибаетесь – я еще и на свидание хочу Вас пригласить».</ru>
+    <en>Come up and say, "If you think I'm going to meet you, you are wrong - I also want to invite you to a meeting."</en>
+  </sex_female>
+  <sex_female>
+    <ru>Можно подойти к девушке и сказать, что на ней отличный наряд. Или что у нее прекрасные глаза. Нужно произнести нечто приятное — сказать, что от нее чудесно пахнет.</ru>
+    <en>You can walk up to a girl and say that her great outfit. Or that her beautiful eyes. Need to say something nice — to say that from her wonderful smell.</en>
+  </sex_female>
+  <sex_female>
+    <ru>Женщины любят искренние комплименты, а не «дежурные».</ru>
+    <en>Women love sincere compliments, not "stock."</en>
+  </sex_female>
+  <sex_female>
+    <ru>Многим женщинам по душе вежливые, обходительные мужчины. Они испытывают раздражение, когда к ним  подходит какой-то неотесанный мужлан, который говорит: «Эй, а ты ничего. Как тебя зовут и какой у тебя телефон?»</ru>
+    <en>Many women prefer polite and courteous men. They experience irritation when it comes to some lout who says, "Hey, you're nice. What is your name and what's your phone number?"</en>
+  </sex_female>
+  <sex_female>
+    <ru>Можно начать с комплимента: «Многие считают, что на свете чудес не бывает. Это не так. Ты - настоящее чудо».</ru>
+    <en>You can start with a compliment: «Many people believe that in the world there are no miracles.'s Not true. You - is a miracle."</en>
+  </sex_female>
+   <sex_female>
+    <ru>Комплименты девушкам надо говорить с улыбкой. Если ты скажешь комплимент с унылым лицом — ей будет неприятно.</ru>
+    <en>Сompliments to girls should speak with a smile. If you say a compliment with a dull face - it will be unpleasant.</en>
+  </sex_female>
+   <sex_female>
+    <ru>Структура правильного эффективного комплимента:
+    1. Комплимент — «это красивый шарф»
+    2. Уточняющий комплимент — «он подчёркивает твой макияж и ботинки, мне это нравится»
+    3. Вызывающий комплимент — «ты его сама выбрала?»</ru>
+    <en>Structure which effectively compliment:
+    1. Compliment - "You have a beautiful scarf."
+    2. Specifying compliment - "he emphasizes your makeup and shoes, I like it."
+    3. Calling compliment - "you chose it yourself?".</en>
+  </sex_female>
+   <sex_female>
+    <ru>Можно сказать: «Вы так прекрасны и притягательны, что я забыл, зачем и куда шел, как только Вас увидел...»</ru>
+    <en>You can say, "You are so beautiful and attractive, that I forgot where he was going and what for, as soon as you see..."</en>
+  </sex_female>
+  <sex_female>
+    <ru>Можно так попробовать: «Какого дракона мне нужно убить, чтобы стать достойным такой принцессы?»</ru>
+    <en>You can try that, "What the dragon should i kill to be worthy of princess like you?"</en>
+  </sex_female>
+  <sex_female>
+    <ru>Начни разговор так: «У Вас аристократический профиль, Вам нужно позировать для скульпторов»</ru>
+    <en>Start a conversation like this: "You have aristocratic profile, you need to pose for artists."</en>
+  </sex_female>
+  <sex_female>
+    <ru>Можно подойти к девушке и сказать: «Прошу прощения, а какое модельное агентство Вы представляете?»</ru>
+    <en>You can say: "Excuse me, but what a model agency you represent?"</en>
+  </sex_female>
+  <sex_female>
+    <ru>Лучшее, что может сделать парень, — это просто подойти и сказать «Здравствуйте». Да, именно это искреннее, чистосердечное, традиционное приветствие может сработать лучше самой остроумной реплики.</ru>
+    <en>The best thing that can make a guy — it's just come up and say "Hello." Yes, that is a sincere, sincere, traditional greeting might work better most witty remarks.</en>
+  </sex_female>
+
+  <!--  //                                                                                                                              -->
+  <!--  // Матерные слова ************************************************************************************************************* -->
+  <!--  //
+                                                                                                                              -->
+  <foul>блять</foul>
+  <foul>блядь</foul>
+  <foul>ебать</foul>
+  <foul>ебу</foul>
+  <foul>выебу</foul>
+  <foul>выебал</foul>
+  <foul>пизда</foul>
+  <foul>пизду</foul>
+  <foul>пиздой</foul>
+  <foul>пизде</foul>
+  <foul>пизденка</foul>
+  <foul>пиздабол</foul>
+  <foul>пизди</foul>
+  <foul>пидр</foul>
+  <foul>пидор</foul>
+  <foul>пидар</foul>
+  <foul>пидарас</foul>
+  <foul>пидорас</foul>
+  <foul>хуй</foul>
+  <foul>хуем</foul>
+  <foul>хую</foul>
+  <foul>хуи</foul>
+  <foul>хуек</foul>
+  <foul>хуесос</foul>
+</extensions>
+
+
+
+
+
+
+
+
